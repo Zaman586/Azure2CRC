@@ -1,2 +1,2 @@
 # Azure2CRC
-My CRC(Cloud Resume Challange
+My CRC(Cloud Resume Challange)
